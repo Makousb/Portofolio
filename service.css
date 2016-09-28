@@ -1,8 +1,22 @@
 *{
   margin: 0;
 }
-
-
-.sect{
-
+html, body{
+  height: 100%;
 }
+
+.sectOne{
+height: 100%;
+background-color: red;
+}
+.sectTwo{
+height: 100%;
+background-color: white;
+}
+.sectThree{
+height: 50%;
+background-color: black;
+}
+.sectFour{
+height: 100%;
+background-color: orange;
