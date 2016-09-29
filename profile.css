@@ -8,6 +8,9 @@ html, body{
 .sectOne{
 height: 100%;
 background-color: red;
+background-image: url("http://www.wallpaperun.com/wp-content/uploads/2016/03/Wallpaper-Tumblr-Widescreen-G3Q-1.jpg");
+z-index: -1;
+background-size: cover;
 }
 .sectTwo{
 height: 100%;
@@ -16,13 +19,24 @@ background-color: white;
 .sectThree{
 height: 50%;
 background-color: black;
+background-image: url("https://secure.static.tumblr.com/a10b40131efc719d0bff421226b9c52b/mgljrms/FhRn39yoc/tumblr_static_tumblr_lc7jr1nwvb1qdbbywo1_500.jpg");
+background-size:cover;
+z-index: -1;
 }
 .sectFour{
 height: 100%;
 background-color: orange;
+background-image: url("http://hdimagesnew.com/wp-content/uploads/2015/08/1440701547_Tumblr_HD_Wallpapers11.jpg");
+background-size: cover;
+z-index: -1;
 }
 nav{
   background-color: grey;
   position: fixed;
 
+}
+img{
+  position: relative;
+  top: 40px;
+  float: right;
 }
