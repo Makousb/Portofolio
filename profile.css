@@ -43,6 +43,7 @@ img{
   right: 150px;
 
 }
+
 p{
   font-size: 15px
 }
@@ -51,4 +52,10 @@ li{
 }
 h5{
   font-size: 18px
+}
+.table{
+  padding: 2px;
+  background-color: grey;
+  border: 5px solid black;
+
 }
