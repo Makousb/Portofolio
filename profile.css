@@ -35,6 +35,8 @@ z-index: -1;
 
 img{
   position: relative;
-  top: 40px;
+  top: 250px;
   float: right;
+  right: 150px;
+
 }
